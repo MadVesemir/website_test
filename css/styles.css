@@ -6,3 +6,8 @@ body {
     display: flex;
     list-style-type: none;
 }
+
+.menu-container {
+    padding: 10px;
+    margin: 10px;
+}
