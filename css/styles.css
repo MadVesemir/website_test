@@ -1,8 +1,7 @@
 body {
     background-color: blanchedalmond;
-    min-height: 96vh;
-    display: flex;
-    flex-direction: column;
+    margin: 0;
+    padding: 0;
 }
 
 .menu {
@@ -14,6 +13,16 @@ body {
 .menu-container {
     padding: 10px;
     margin: 10px;
+}
+
+.f-container{
+    height: 100vh; /* for shorter content */
+    display: flex;
+    flex-direction: column;
+      
+    /*ie10*/
+    display: -ms-flexbox;
+    -ms-flex-direction: column;
 }
 
 #footer {
