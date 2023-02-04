@@ -17,7 +17,8 @@ body {
 }
 
 footer {
-    position: fixed; 
-    bottom: 0;
+    width: auto;
+    margin-top: auto;
+    height: 200px;
     background-color: bisque;
 }
