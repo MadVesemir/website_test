@@ -1,5 +1,5 @@
-<?php include('header.html'); ?>
-<?php include('footer.html'); ?>
+<?php include('header.php'); ?>
+<?php include('footer.php'); ?>
 <!DOCTYPE html>
 <html lang="ru">
 <head>
