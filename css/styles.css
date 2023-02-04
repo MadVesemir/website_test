@@ -16,7 +16,7 @@ body {
     margin: 10px;
 }
 
-footer {
+#footer {
     flex-direction: row;
     width: auto;
     height: auto;
