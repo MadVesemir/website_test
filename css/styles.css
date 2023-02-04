@@ -17,6 +17,7 @@ body {
 }
 
 footer {
+    flex-direction: row;
     width: auto;
     height: auto;
     margin-top: auto;
